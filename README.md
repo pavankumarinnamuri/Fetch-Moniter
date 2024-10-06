@@ -83,7 +83,8 @@ Open your web browser and navigate to `http://127.0.0.1:5000`. This URL will dis
 
 Below is a screenshot of the Fetch Monitor Dashboard in action:
 
-![Fetch Monitor Dashboard] ![Screenshot (132)](https://github.com/user-attachments/assets/71288297-0a91-4aef-bb7a-3f2128b49266)
+![Fetch Monitor Dashboard] ![Screenshot (135)](https://github.com/user-attachments/assets/03246e48-d4d3-410d-925d-9c045684a95b)
+
 
 
 
