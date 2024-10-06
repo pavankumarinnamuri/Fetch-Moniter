@@ -83,7 +83,8 @@ Open your web browser and navigate to `http://127.0.0.1:5000`. This URL will dis
 
 Below is a screenshot of the Fetch Monitor Dashboard in action:
 
-![Fetch Monitor Dashboard](./path/to/your/screenshot.png)
+![Fetch Monitor Dashboard] ![Screenshot (132)](https://github.com/user-attachments/assets/2e5b531d-8bfd-4c9c-808d-9d2f168269f5)
+
 
 The bar chart displays the availability percentage for each monitored endpoint, providing a quick overview of their status.
 
