@@ -131,5 +131,3 @@ This project utilizes several libraries:
 - [Requests](https://docs.python-requests.org/)
 - [PyYAML](https://pyyaml.org/)
 - [Chart.js](https://www.chartjs.org/)
-
-
